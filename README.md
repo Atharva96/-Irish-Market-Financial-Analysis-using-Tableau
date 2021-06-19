@@ -1,1 +1,1 @@
-# -Irish-Market-Financial-Analysis-using-Tableau
+# Irish-Market-Financial-Analysis-using-Tableau
